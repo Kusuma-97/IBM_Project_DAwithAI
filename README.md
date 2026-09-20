@@ -22,7 +22,6 @@ Heart_Failure_Prediction/
 ├── heart.csv                           # Dataset (918 records, 12 columns)
 ├── requirements.txt                    # Python dependencies
 ├── README.md                           # This documentation file
-└── python_script_to_generate_docx.py  # Script to export the technical report
 ```
 
 ---
