@@ -143,15 +143,6 @@ streamlit run app.py
 ```
 
 The app opens automatically at `http://localhost:8501`.
-
-### 5 — Generate the technical DOCX report
-
-```bash
-python python_script_to_generate_docx.py
-```
-
-This creates `Heart_Failure_Prediction.docx` in the working directory.
-
 ---
 
 ## 🤖 Model Performance (on 20% hold-out test set)
